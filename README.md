@@ -10,4 +10,6 @@ The theme is **free** [Astral](http://html5up.net/astral) from HTML5 UP [html5up
 
 This is silly but I must explain myself. I can do **ALMOST everything** on the web _except for the design_. So I don't even try.
 
+# Contact me
+
 Anyways, feel free to contact me with HTML, CSS, JS and yes, even PHP work &raquo; [matusmarcin.com](http://www.matusmarcin.com)
