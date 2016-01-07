@@ -12,4 +12,4 @@ This is silly but I must explain myself. I can do **ALMOST everything** on the w
 
 # Contact me
 
-Anyways, feel free to contact me with HTML, CSS, JS and yes, even PHP work &raquo; [matusmarcin.com](http://www.matusmarcin.com)
+Anyways, feel free to contact me with HTML, CSS, JS and yes, even PHP work &rarr; [matusmarcin.com](http://www.matusmarcin.com)
