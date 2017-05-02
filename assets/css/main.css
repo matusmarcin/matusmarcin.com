@@ -1464,7 +1464,6 @@
 	@media screen and (max-width: 736px) {
 
 		/* Basic */
-
 			body, input, textarea, select {
 				font-size: 11pt;
 				line-height: 1.75em;
@@ -1589,6 +1588,10 @@
 				width: 20%;
 				height: 5.5em;
 			}
+
+				#me .pic:before {
+					display: none;
+				}
 
 				#me .pic img {
 					display: block;
